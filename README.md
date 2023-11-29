@@ -6,11 +6,10 @@ Credit - JohnAudioTech - https://youtu.be/P4GsoMTv-SY
 ![image](https://github.com/kpgs123/LM386-Amplifier-Board/assets/56798215/cc3575a4-464c-4e28-8d3e-3d684efded79)
 
 Board Layout -
-  Drill -
-  ![image](https://github.com/kpgs123/LM386-Amplifier-Board/assets/56798215/7517a984-7306-4ee4-ac00-87afb8c1e01e)
-
-  Front Side -
+  Board Top -
   ![image](https://github.com/kpgs123/LM386-Amplifier-Board/assets/56798215/b120f209-296b-4ace-87b2-14066aeb83d0)
+  ![image](https://github.com/kpgs123/LM386-Amplifier-Board/assets/56798215/51566f56-5b66-4452-a369-a9eba9611ef9)
 
-  Back Side -
+  Board Bottom -
   ![image](https://github.com/kpgs123/LM386-Amplifier-Board/assets/56798215/760838a4-9bac-425a-a8be-0d057c75cdb9)
+  ![image](https://github.com/kpgs123/LM386-Amplifier-Board/assets/56798215/24107307-ac95-4155-9ff9-0450c9200717)
