@@ -5,6 +5,11 @@ Schematic -
 Credit - JohnAudioTech - https://youtu.be/P4GsoMTv-SY
 ![image](https://github.com/kpgs123/LM386-Amplifier-Board/assets/56798215/cc3575a4-464c-4e28-8d3e-3d684efded79)
 
+Build of Materials(BOM) -<br>
+![image](https://github.com/kpgs123/LM386-Amplifier-Board/assets/56798215/ad7805ac-7602-4608-b823-78e54303606e)
+
+
+
 Board Layout -<br>
   Board Top -
   ![image](https://github.com/kpgs123/LM386-Amplifier-Board/assets/56798215/b120f209-296b-4ace-87b2-14066aeb83d0)
